@@ -1,6 +1,5 @@
 # Plasfora
 
-https://www.plasfora.com/
 
 The "Plasfora" platform aims to simplify the journey of international patients seeking quality healthcare. It will offer a user-friendly and transparent experience by providing detailed information on the various types of available treatments, clinics, tourist destinations, and qualified doctors. Patients will be able to review doctor profiles, testimonials, and feedback to make informed decisions.
 
